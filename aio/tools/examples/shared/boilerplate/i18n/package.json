@@ -18,7 +18,7 @@
     "@angular/animations": "^14.1.0-next",
     "@angular/common": "^14.1.0-next",
     "@angular/compiler": "^14.1.0-next",
-    "@angular/core": "^14.1.0-next",
+    "@angular/core": "^21.2.5",
     "@angular/forms": "^14.1.0-next",
     "@angular/localize": "^14.1.0-next",
     "@angular/platform-browser": "^14.1.0-next",
